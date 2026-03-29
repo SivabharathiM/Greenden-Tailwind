@@ -1,1 +1,2 @@
-# Greendan-Tailwind
+# Greendan-Tailwindcss
+Greenden is a responsive plant shop website developed using HTML and Tailwind CSS. The project focuses on creating a clean and modern user interface for displaying plant products, categories, and promotional sections. It includes a navigation bar, hero section, product cards, customer highlights, and footer. Tailwind CSS utility classes were used to build a responsive layout, manage spacing, typography, colors, and hover effects efficiently. This project helped improve front-end development skills and understanding of responsive web design.
